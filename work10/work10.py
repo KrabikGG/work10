@@ -1,3 +1,4 @@
+#Городецький А.Ю.
 def open_file(name, mode):
     try:
         f = open(name, mode, encoding='utf-8')
